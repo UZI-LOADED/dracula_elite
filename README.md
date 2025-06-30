@@ -130,10 +130,8 @@ Potential backdoor vectors (--os-pwn)
 Run it on a test target:
 
 
-Dracula_KillChain_Elite.bat
-If it works cleanly:
+----------------->>>    Dracula_KillChain_Elite.bat
 
-I’ll give you:
 
 🕶️ Stealth Version (no CMD window)
 
